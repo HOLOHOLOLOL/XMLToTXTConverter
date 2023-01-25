@@ -1,0 +1,8 @@
+C:\Users\herhe\source\repos\XMLtoTXTConverter\bin\Debug\XMLtoTXTConverter.exe.config
+C:\Users\herhe\source\repos\XMLtoTXTConverter\bin\Debug\XMLtoTXTConverter.exe
+C:\Users\herhe\source\repos\XMLtoTXTConverter\bin\Debug\XMLtoTXTConverter.pdb
+C:\Users\herhe\source\repos\XMLtoTXTConverter\obj\Debug\XMLtoTXTConverter.csproj.AssemblyReference.cache
+C:\Users\herhe\source\repos\XMLtoTXTConverter\obj\Debug\XMLtoTXTConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\herhe\source\repos\XMLtoTXTConverter\obj\Debug\XMLtoTXTConverter.csproj.CoreCompileInputs.cache
+C:\Users\herhe\source\repos\XMLtoTXTConverter\obj\Debug\XMLtoTXTConverter.exe
+C:\Users\herhe\source\repos\XMLtoTXTConverter\obj\Debug\XMLtoTXTConverter.pdb
